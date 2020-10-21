@@ -34,6 +34,11 @@ This is a game about sadness and hardships. There are a lot of action and fighti
 # Art Style 
 This is a 2D isometric game, with high quality 2D sprites. The character design should resemble that of Studio Ghibli. Everything should be very scary and feel alive, with highly animated scenarios and maze backgrounds.
 
+# Font
+Mincecraftia
+![image](https://user-images.githubusercontent.com/73158407/96687014-8a0ceb00-133c-11eb-93ff-4b2f4704b6fd.png)
+
+
 # Music and Sounds					
 						
 ●	The music should have a Retro style, appealing to 8 bit nostalgia but high quality.
