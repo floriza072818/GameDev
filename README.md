@@ -49,6 +49,9 @@ This is a 2D isometric game, with high quality 2D sprites. The character design 
 						
 The game will be Mobile Cross-platform: iOS, Android, Windows Phone. Follow with PC standalone version and Facebook Canvas. 
 
+# Coins
+
+![image](https://user-images.githubusercontent.com/73158407/96686671-0e12a300-133c-11eb-9d34-fa540c3b2946.png)
 
 # Background
 
