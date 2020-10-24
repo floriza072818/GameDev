@@ -4,8 +4,7 @@
 This game design document describes the details for a multi-platform touch based 2D puzzle game with novel mechanics and an original story and characters. 
 
 # Sample Video
-https://drive.google.com/drive/search?q=sample
-
+https://drive.google.com/file/d/1dmCIq2UHleZyogXCdx6DgTjN0fQyGb-z/view?usp=sharing
 # Characters
 
 ![image](https://user-images.githubusercontent.com/73158407/96685255-1538b180-133a-11eb-981b-bb71dabdcffc.png)
